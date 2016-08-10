@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\nx_gif_refreshing.xml",
+        "source": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\res\\drawable\\nx_gif_refreshing.xml"
+    },
+    {
+        "merged": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\nx_gif_refreshing.xml",
+        "source": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\res\\drawable\\nx_gif_refreshing.xml"
+    },
+    {
+        "merged": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\android studio project\\SimpleApp-master\\pullRefresh_library\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "G:\\myprogram\\SimpleApp\\pullRefresh_library\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
